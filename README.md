@@ -1,4 +1,4 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS-
+# end-to-end-medical-chatbot
 
 
 Clone the repository
